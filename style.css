@@ -1,0 +1,41 @@
+body{
+    background-image: url("фон.jpg");
+    background-size: cover;
+}
+h1{
+    font-family: 'Caveat', cursive;
+}
+ul{
+    font-family: 'Amatic SC', cursive;
+    font-size: 27px;
+}
+ol{
+    font-family: 'Amatic SC', cursive;
+    font-size: 27px;
+}
+h2{
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+}
+.heavy{
+    text-decoration:underline;
+}
+#Iron{
+    color: lightskyblue;
+}
+div{
+    background-color:white;
+    width: 500px;
+    margin: auto;
+    padding: 5px;
+    border-radius: 25px;
+    box-shadow: 0 0 1000000000000000000px black;
+}
+#Tarelka{
+    color: lightskyblue;
+}
+
+p {
+    text-align: right;
+    font-family: 'Amatic SC', cursive;
+}
